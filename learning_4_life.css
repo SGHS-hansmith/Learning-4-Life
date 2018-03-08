@@ -1,21 +1,33 @@
-#top_part   img {
-	width:100%;
-	margin:0 0 0 0;
-}
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Bangers');
 
 #body  {
 	margin: 0 0 0 0;
+	text-align:center;
+	right:10%;
 }
 
-#p {
+p {
 	font-family:'Roboto Condensed', sans-serif;
+	text-align:center;
+	right:10%;
+	float:right;
+	width:80%;
+	left:10%;
 }
 
-#h1 {
+h1 {
 	font-family:'Bangers', cursive;
-	color:98C2FF;
+	color:1654EF;
+	text-align:center;
+	font-size:80px;
 }
 
 #logo img {
 	width:30%;
+}
+
+#contact_information {
+	text-align: right;
+	font-family:'Roboto Condensed', sans-serif;
 }
