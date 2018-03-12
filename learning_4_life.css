@@ -29,9 +29,10 @@ h1 {
 	font-family:'Roboto Condensed', sans-serif;
 }
 
-#toolbar {
+.navbar {
 	width: 100%;
 	position: relative;
+	background-color:FFAA00
 }
 
 .menu {
